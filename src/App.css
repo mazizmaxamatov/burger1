@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+header{
+    background-image: url(./Assets/hidr.png);
+    background-size: cover;
+}
+
+.menu_main .box p{
+    background-image: url(./Assets/burger.png);
+}
+
+.active{
+    color: white;
+}
+
