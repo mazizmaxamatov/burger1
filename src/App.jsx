@@ -5,11 +5,12 @@ import Header from "./componentes/header";
 
 
 
+
 function App() {
   return (
     <Fragment>
 
-      <Header />
+    <Header/>
 
 
 

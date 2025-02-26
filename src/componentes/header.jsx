@@ -1,7 +1,7 @@
 
 import {Routes, Route, NavLink} from "react-router-dom"
 import React, { Fragment } from 'react'
-import Footer from "./componentes/Footer"
+import Footer from "./Footer"
 
 function Header() {
     
