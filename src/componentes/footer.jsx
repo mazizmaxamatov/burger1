@@ -1,6 +1,6 @@
 import { Fragment } from 'react'
-import Todos from './todos'
-import Posts from './posts'
+import Todos from './Todos'
+import Posts from './Posts'
 import Comments from './comments'
 
 
